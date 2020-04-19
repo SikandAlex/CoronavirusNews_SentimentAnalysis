@@ -1,2 +1,2 @@
-# CoronavirusNews_SentimentAnalysis
-Uncover bias in coronavirus related news articles
+# COVID-19 News Sentiment Analysis
+Using NLP to explore Coronavirus news across different media platforms (Fox News vs. CNN)
