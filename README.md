@@ -1,9 +1,9 @@
 # COVID-19 News Sentiment Analysis
 Jupyter Notebook that uses NLP to explore Coronavirus news across different media platforms (Fox News vs. CNN)
 
-# Interesting questions to explore?
+# WARNING: The API has a limit on the number of articles and date/range so the data will change rapidly 
 
-## What is the distribution of positive, negative, and neutral articles on each media platform?
+# Interesting questions to explore?
 
 ## What are the most common words associated with positive and negative articles on each media platform?
 
